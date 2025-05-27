@@ -1,0 +1,21 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos del entorno
+.env
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
