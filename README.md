@@ -53,9 +53,9 @@ pytest test_utils.py
 
 ## Autor
 
-César Diego Ruelas Flores
-Estudiante de Big Data y Ciencia de Datos – TECSUP
-Fecha del proyecto: mayo 2025
+- César Diego Ruelas Flores
+- Estudiante de Big Data y Ciencia de Datos – TECSUP
+- Fecha del proyecto: mayo 2025
 
 ## Licencia
 
